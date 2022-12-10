@@ -9,6 +9,7 @@
 		"qolp_AutoShieldAfterSystem":"data.plugins.qolp_AutoShieldAfterSystem",
 		"qolp_shieldSnapping":"data.plugins.qolp_shieldSnapping",
 		"qolp_systemNotify":"data.plugins.qolp_systemNotify",
+		"qolp_UnselectWeaponGroup":"data.plugins.qolp_UnselectWeaponGroup",
 	},
 	"graphics":{
 		"icons":{
